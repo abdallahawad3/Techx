@@ -1130,5 +1130,6 @@ body {
   box-shadow: var(--shadow-1);
   border: 1px solid var(--light-gray);
   border-radius: 50%;
+  transition: var(--transition-1);
   bottom: -100px;
 }

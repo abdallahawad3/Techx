@@ -788,9 +788,11 @@ body {
   border-left: 3px solid var(--spanish-orange);
 }
 
-.stats .container .box h3 {
+.stats .container .box h3 span.num {
   font-size: 45px;
   font-weight: 900;
+  color: var(--black);
+  padding-right: 10px;
 }
 
 .stats .container .box span {

@@ -1,6 +1,6 @@
 let header = document.querySelector(".header");
 let navbar = document.querySelector(".navbar");
-let showMenu = document.querySelector(".menu");
+let showMenu = document.querySelector(".menu-btn");
 let backToTop = document.querySelector(".back-to-top");
 let navListItem = document.querySelectorAll(".nav-list li");
 
